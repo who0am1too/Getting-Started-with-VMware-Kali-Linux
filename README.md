@@ -32,6 +32,7 @@ This repo provides step-by-step guides, screenshots, resources, and commands dis
 
 - 🔗 [Kali Linux ISO](https://www.kali.org/get-kali/)
 - 🔗 [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
+- 🔗 [VMware Workstation Pro: Now Available Free for Personal Use](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html))
 
 ---
 
