@@ -38,7 +38,7 @@ This repo provides step-by-step guides, screenshots, resources, and commands dis
 
 ## 🛠️ Basic Kali Linux Commands
 
-Check [`kali-linux/basic-commands.md`](kali-linux/basic-commands.md) for useful commands to get started.
+Check [`kali-linux/basic-commands.md`][(https://github.com/who0am1too/Kali-Linux-Basic-Commands.git)] for useful commands to get started.
 
 ---
 
